@@ -105,7 +105,7 @@ Empty
 </tr>
 </tbody>
       </table>
-<p>이름이 있는 동물의 ID는 A524634와 A465637입니다. 따라서 SQL을 실행하면 다음과 같이 출력되어야 합니다.</p>
+<p>이름이 있는 동물의 ID는는 A524634와 A465637입니다. 따라서 SQL을 실행하면 다음과 같이 출력되어야 합니다.</p>
 <table class="table">
         <thead><tr>
 <th>ANIMAL_ID</th>
