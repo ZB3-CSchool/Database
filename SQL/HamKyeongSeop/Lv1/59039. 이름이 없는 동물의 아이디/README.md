@@ -1,11 +1,11 @@
 # [level 1] 이름이 없는 동물의 아이디 - 59039
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59039)
+TESETTESTTEST
+### 성능 요약!
 
-### 성능 요약
-
-메모리: 0.0 MB, 시간: 0.00 ms
-
+메모리: 0.0 MB, 시간: 0.00 ms  
+tesetesteset
 ### 구분~
 
 코딩테스트 연습 > IS NULL
